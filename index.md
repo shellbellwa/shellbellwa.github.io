@@ -1,6 +1,8 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+title: Shelley Wang
 layout: home
 ---
+
+Whoah, you found my page. Welcome!
+
+There isn't a clear vision for where this site is supposed to go, but I'm planning to share... stuff. Photos, travels, occurrences galore. Hopefully my children's children will happen upon this and exclaim how incredible their grandmother is.
