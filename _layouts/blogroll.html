@@ -11,6 +11,20 @@
       {{ content }}
     </div>
     
+    <div class="blogroll">
+                
+      {% for p in site.pages reversed %}
+        {% if p.layout == page.roll %}
+            
+          <div class="blogroll-item">
+            <a href="{{ p.url }}" class="blogroll-title">{{ p.title }}</a>
+          </div>
+            
+        {% endif %}
+      {% endfor %}
+      
+    </div>
+    
   </body>
   
   {% include footer.html %}
