@@ -1,0 +1,39 @@
+/**
+ * BUILT-IN
+ */
+ 
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body, h1, h2, h3, p, blockquote, pre, ol, ul {
+  margin: 0;
+}
+
+
+/**
+ * USER DEFINED
+ */
+
+a {
+  color: $color-text;
+  text-decoration: none;
+}
+
+blockquote {
+  border-left: 5px solid $color-blockquote;
+  padding-left: 20px;
+}
+
+body {
+  margin: 0 auto;
+  max-width: $content-width;
+  padding: 10px 10px 15px 10px;
+  text-align: center;
+}
+
+p {
+  padding: 5px 0;
+  text-align: left;
+}

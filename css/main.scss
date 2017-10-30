@@ -1,0 +1,16 @@
+---
+---
+@charset "utf-8";
+
+$color-blockquote: #666666;
+$color-text: #000000;
+
+$content-width: 700px;
+
+$font-title: "Roboto Slab", serif;
+$font-body:  "Libre Franklin", sans-serif;
+
+@import
+  "base",
+  "layout"
+;
