@@ -1,7 +1,8 @@
 ---
 title: "Film Review: バケモノの子 (Bakemono No Ko)"
 date: "March 29, 2016"
-layout: blog
+layout: post
+roll: blog
 categories: Books
 ---
 

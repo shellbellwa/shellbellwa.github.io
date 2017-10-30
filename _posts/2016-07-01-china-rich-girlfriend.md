@@ -1,7 +1,8 @@
 ---
 title: "Book Review: China Rich Girlfriend"
 date: July 1, 2016
-layout: blog
+layout: post
+roll: blog
 categories: Books
 ---
 
