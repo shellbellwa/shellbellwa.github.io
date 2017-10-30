@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
   
+  {% include head.html %}
   {% include nav.html %}
   
   <body>
@@ -13,11 +14,11 @@
     
     <div class="blogroll">
                 
-      {% for p in site.posts reversed %}
-        {% if p.layout == page.roll %}
+      {% for post in site.posts reversed %}
+        {% if post.roll == page.roll %}
             
           <div class="blogroll-item">
-            <a href="{{ p.url }}" class="blogroll-title">{{ p.title }}</a>
+            <a href="{{ post.url }}" class="blogroll-title">{{ post.title }}</a>
           </div>
             
         {% endif %}
