@@ -1,19 +1,76 @@
 /**
+ * FOOTER
+ */
+ 
+.footer-cph {
+  color: $color-text-lighter;
+  font-size: 12px;
+  margin: 20px 0;
+}
+
+.footer-nav {
+  background-color: $color-footer;
+  padding: 40px 0;
+}
+ 
+/**
+ * HOME
+ */
+
+.home-container {
+  display: flex;
+}
+
+.home-item-left {
+  margin: 10px 10px 10px 0;
+}
+
+.home-item-right {
+  margin: 10px 0 10px 10px;
+}
+
+
+/**
+ * MISC
+ */
+ 
+.page-content {
+  margin: 0 auto;
+  max-width: $content-width;
+  padding: 10px 10px 15px 10px;
+  text-align: left;
+}
+
+.profile-pic {
+  border-radius: 50%;
+}
+
+/**
  * NAV
  */
  
+.banner {
+  margin: 10px 0;
+  max-width: 250px;
+}
+
 .nav {
+  background-color: $color-grey;
   font-family: $font-body;
 }
 
 .nav-navbar {
-
+  border-bottom: 1px solid $color-grey-darker-1;
+  border-top: 1px solid $color-grey-darker-1;
+  padding: 25px 0;
+  text-transform: uppercase;
 }
 
-.nav-subtitle {
-  color: #c7c7c7;
-  font-family: $font-title;
-  text-transform: uppercase;
+.nav-navbar a {
+  margin: 0 20px;
+  &:hover {
+    color: lighten($color-text, 25%);
+  }
 }
 
 .nav-title {
