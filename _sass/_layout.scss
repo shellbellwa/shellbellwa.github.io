@@ -46,6 +46,23 @@
   margin: 10px 0 10px 10px;
 }
 
+@media (max-width: 500px){
+
+  .home-container {
+    display: inline;
+    text-align: center;
+  }
+  
+  .home-item-left {
+    margin: 10px 0;
+  }
+  
+  .home-item-right {
+    margin: 10px 0;
+    text-align: left;
+  }
+  
+}
 
 /**
  * MISC
