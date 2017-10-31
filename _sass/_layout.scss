@@ -49,6 +49,7 @@
   max-width: $content-width;
   padding: 10px 10px 15px 10px;
   text-align: left;
+  min-height: calc(100vh - 382px);
 }
 
 .profile-pic {
