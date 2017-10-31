@@ -1,7 +1,7 @@
 /**
  * FOOTER
  */
- 
+
 .footer-cph {
   color: $color-text-lighter;
   font-size: 12px;
@@ -11,6 +11,16 @@
 .footer-nav {
   background-color: $color-footer;
   padding: 40px 0;
+}
+
+.footer-nav a {
+  color: lighten($color-text, 25%);
+  font-size: 14px;
+  margin: 0 10px;
+  text-transform: uppercase;
+  &:hover {
+    color: lighten($color-text, 50%);
+  }
 }
  
 /**
