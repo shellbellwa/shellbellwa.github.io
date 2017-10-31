@@ -27,9 +27,8 @@ blockquote {
 }
 
 body {
-  margin: 0 auto;
-  max-width: $content-width;
-  padding: 10px 10px 15px 10px;
+  color: $color-text;
+  font-family: $font-body;
   text-align: center;
 }
 
