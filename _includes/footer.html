@@ -1,3 +1,8 @@
 <footer class="footer">
-  Copyright &copy; {{ 'now' | date: "%Y" }} Shelley Wang
+  <div class="footer-nav">
+    {% include navlinks.html %}
+  </div>
+  <div class="footer-cph">
+    Copyright &copy; {{ 'now' | date: "%Y" }} Shelley Wang &mdash; Powered by Jekyll
+  </div>
 </footer>
