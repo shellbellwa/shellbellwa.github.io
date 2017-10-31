@@ -10,6 +10,7 @@
 
 .footer-nav {
   background-color: $color-footer;
+  font-family: $font-title;
   padding: 40px 0;
 }
 
@@ -73,7 +74,7 @@
 
 .nav {
   background-color: $color-grey;
-  font-family: $font-body;
+  font-family: $font-title;
 }
 
 .nav-navbar {
