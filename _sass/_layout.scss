@@ -81,6 +81,13 @@
   min-height: calc(100vh - 386px);
 }
 
+.page-content img {
+  border: 1px solid $color-grey-darker-1;
+  display: block;
+  margin: auto;
+  padding: 5px;
+}
+
 .byline {
   color: $color-text-lighter;
 }
