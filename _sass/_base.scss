@@ -37,7 +37,25 @@ body {
 h1, h2, h3 {
   font-family: $font-title;
 }
- 
+
+li {
+  border-bottom: 1px solid $color-box-line;
+  counter-increment: item;
+  list-style: none;
+  padding: 15px 0 15px 35px;
+  position: relative; 
+  &:before {
+    left: 0px;
+    color: $color-box-line;
+    content: counter(item);
+    display: inline-block;
+    font-family: $font-title;
+    font-weight: bold;
+    position: absolute;
+    top: 13px;
+  }
+}
+
 ol {
   background-color: $color-box;
   color: $color-box-font;
