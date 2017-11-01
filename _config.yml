@@ -7,7 +7,7 @@ locale:      en_US
 name:  Shelley Wang
 email: shell.bell.wang@gmail.com
 
-permalink: /:categories/:title.html
+permalink: /:title.html
 
 # Build settings
 markdown: kramdown
