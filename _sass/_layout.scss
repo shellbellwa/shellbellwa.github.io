@@ -68,10 +68,10 @@
  * MISC
  */
  
-.lead-img {
+.page-content .lead-img {
   border: 1px solid $color-grey-darker-1;
   display: block;
-  margin: auto;
+  margin: 10px auto 0 auto;
   padding: 5px;
   width: calc(100% - 12px);
 }
