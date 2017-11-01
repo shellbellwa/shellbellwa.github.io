@@ -1,5 +1,5 @@
 ---
-title: Shelley Wang
+title: Home
 layout: home
 ---
 
