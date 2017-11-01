@@ -5,11 +5,16 @@
     
     {% include head.html %}
     {% include nav.html %}
-    
-    <h1>{{ page.title }}</h1>
-    {% include byline.html %}
-    
+
     <div class="page-content">
+      
+      {% if page.picture %}
+        <img class="lead-img" src="{{ page.picture }}">
+      {% endif %}
+      
+      <h1>{{ page.title }}</h1>
+      {% include byline.html %}
+    
       {{ content }}
     </div>
     
