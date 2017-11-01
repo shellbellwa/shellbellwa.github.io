@@ -6,6 +6,8 @@ roll: blog
 categories: Books
 ---
 
+![](https://i.imgur.com/eIl6Rpg.jpg)
+
 > "The latest feature film from award-winning Japanese director Mamoru Hosoda (Summer Wars, Wolf Children): When Kyuta, a young orphan living on the streets of Shibuya, stumbles into a fantastic world of beasts, he’s taken in by Kumatetsu, a gruff, rough-around-the-edges warrior beast who’s been searching for the perfect apprentice. Despite their constant bickering, Kyuta and Kumatetsu begin training together and slowly form a bond as surrogate father and son. But when a deep darkness threatens to throw the human and beast worlds into chaos, the strong bond between this unlikely pair will be put to the ultimate test—a final showdown that will only be won if the two can finally work together using all of their combined strength and courage."
 
 In 2015 I was excitedly anticipating the premiere of バケモノの子, as Wolf Children, Summer Wars, or TGWLTT -- all directed by  細田 守 (Mamoru Hosoda) -- really left me a good impression. I didn't really have high expectations coming in, and I think that made my experience watching it for the first time even better.
