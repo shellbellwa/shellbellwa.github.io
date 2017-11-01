@@ -68,6 +68,14 @@
  * MISC
  */
  
+.lead-img {
+  border: 1px solid $color-grey-darker-1;
+  display: block;
+  margin: auto;
+  padding: 5px;
+  width: calc(100% - 12px);
+}
+
 .sep {
   color: $color-footer-dark;
   display: inline;
