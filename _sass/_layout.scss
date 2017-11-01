@@ -68,12 +68,21 @@
  * MISC
  */
  
+.sep {
+  color: darken($color-footer, 10%);
+  display: inline;
+}
+
 .page-content {
   margin: 0 auto;
   max-width: $content-width;
   padding: 10px 10px 15px 10px;
   text-align: left;
   min-height: calc(100vh - 386px);
+}
+
+.byline {
+  color: $color-text-lighter;
 }
 
 .profile-pic {
