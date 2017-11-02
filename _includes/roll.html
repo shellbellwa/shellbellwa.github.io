@@ -10,13 +10,18 @@
     {% endif %}
   
     <div class="roll-item">
+      
       <div class="roll-info">
         <a href="{{ post.url }}" class="roll-title">{{ post.title }}</a>
         <div class="roll-date">{{ post.date | | date: "%B %e, %Y" }}</div>
       </div>
-      <div class="roll-preview">
-        {{ post.content | strip_html | truncatewords: 50 }}
-      </div>
+      
+      {% if page.preview %}
+        <div class="roll-preview">
+          {{ post.content | strip_html | truncatewords: 50 }}
+        </div>
+      {% endif %}
+      
     </div>
     
   {% endif %}
