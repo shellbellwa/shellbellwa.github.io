@@ -140,3 +140,38 @@
 .nav-title {
   font-family: $font-title;
 }
+
+
+/**
+ * ROLL
+ */
+ 
+.roll {
+  margin: 20px 0;
+}
+
+.roll-date {
+  font-weight: normal;
+}
+
+.roll-info {
+  display: flex;
+  font-family: $font-title;
+  font-weight: bold;
+  justify-content: space-between;
+  margin: 0 0 10px 0;
+}
+
+.roll-item {
+  margin: 20px 0;
+}
+
+.roll-preview {
+
+}
+
+.roll-sep {
+  border-bottom: 1px solid $color-grey-darker-1;
+  color: $color-footer-dark;
+  font-style: italic;
+}
