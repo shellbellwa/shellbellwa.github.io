@@ -38,6 +38,13 @@ h1, h2, h3 {
   font-family: $font-title;
 }
 
+iframe {
+  border: 1px solid $color-grey-darker-1;
+  display: block;
+  margin: auto;
+  padding: 5px;
+}
+
 li {
   border-bottom: 1px solid $color-box-line;
   counter-increment: item;
