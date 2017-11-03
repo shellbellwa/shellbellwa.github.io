@@ -6,7 +6,7 @@ roll: blog
 categories: Miscellaneous
 ---
 
-Obituary: [Hsu Dan](http://www.legacy.com/obituaries/nytimes/obituary.aspx?pid=171955355)
+[Hsu Dan Obituary](http://www.legacy.com/obituaries/nytimes/obituary.aspx?pid=171955355)
 
 As a prior student of Hsu Dan, it has been such a pleasure and honor to personally learn under him.
 
@@ -57,8 +57,8 @@ Thank you.
 
 &#x1f342;
 
-For more information about Hsu Dan:
+_For more information about Hsu Dan:_
 
-[Echoes-Sentinel: Chinese artist spends a life in Landscapes](http://newjerseyhills.com/echoes-sentinel/news/chinese-artist-spends-a-life-in-landscapes/article_ab149a64-079f-11e4-93a2-001a4bcf887a.html)
+[Chinese artist spends a life in Landscapes](http://newjerseyhills.com/echoes-sentinel/news/chinese-artist-spends-a-life-in-landscapes/article_ab149a64-079f-11e4-93a2-001a4bcf887a.html)
 
 [Hsu Dan Art: Traditional Chinese Artwork of Hsu Dan](http://hsudanart.wordpress.com/)
