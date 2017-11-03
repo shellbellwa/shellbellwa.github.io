@@ -201,3 +201,16 @@
   font-style: italic;
   margin: 5px 0 0 0;
 }
+
+/**
+ * LINKS
+ */
+ 
+.page-content p a {
+  text-decoration: none;
+  border-bottom: 4px solid $color-footer-dark;
+  &:hover {
+    background-color: $color-footer-dark;
+    border-bottom: 4px solid $transparent;
+  }
+}
