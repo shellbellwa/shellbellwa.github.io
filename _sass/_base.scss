@@ -38,6 +38,10 @@ h1, h2, h3 {
   font-family: $font-title;
 }
 
+h2, h3 {
+  margin: 20px 0 15px 0;
+}
+
 iframe {
   border: 1px solid $color-grey-darker-1;
   display: block;
