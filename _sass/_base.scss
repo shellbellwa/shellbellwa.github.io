@@ -55,11 +55,10 @@ li {
   counter-increment: item;
   list-style: none;
   padding: 15px 0 15px 35px;
-  position: relative; 
+  position: relative;
   &:before {
     left: 0px;
     color: $color-box-line;
-    content: counter(item);
     display: inline-block;
     font-family: $font-title;
     font-weight: bold;
@@ -75,6 +74,12 @@ ol {
   padding: 20px 30px;
 }
 
+ol li {
+  &:before {
+    content: counter(item);
+  }
+}
+
 p {
   line-height: 1.5;
   padding: 5px 0;
@@ -85,4 +90,12 @@ ul {
   color: $color-box-font;
   margin: 10px 0;
   padding: 20px 30px;
+}
+
+ul li {
+  &:before {
+    content: '○';
+    font-size: 30px;
+    top: 2px;
+  }
 }
